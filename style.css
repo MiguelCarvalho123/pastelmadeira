@@ -1,0 +1,22 @@
+#header.header-scrolled{
+    background: rgba(20, 2, 0, 0.5);
+    transition: all 0.5s;
+}
+
+textarea{
+    resize: none;
+}
+
+.footer-area{
+    opacity: 0.9;
+}
+.material-symbols-outlined{
+    color: rgb(255, 255, 255);
+    width: 20%;
+    height: auto;
+    float: right;
+}
+.material-symbols-outlined:hover{
+    transition: 0.5s;
+    color: orange;
+}
